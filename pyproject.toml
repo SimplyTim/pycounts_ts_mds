@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_ts_mds"
-version = "0.1.0"
+version = "0.2.0"
 description = "A short test package that counts the words in a given file."
 authors = ["Timothy Singh"]
 license = "MIT"
