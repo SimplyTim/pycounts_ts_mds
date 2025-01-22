@@ -2,6 +2,8 @@
 
 A short test package that counts the words in a given file.
 
+[![codecov](https://codecov.io/github/SimplyTim/pycounts_ts_mds/graph/badge.svg?token=5WRCGL2RGR)](https://codecov.io/github/SimplyTim/pycounts_ts_mds)
+
 ## Installation
 
 ```bash
